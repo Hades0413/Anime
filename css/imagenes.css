@@ -27,7 +27,7 @@ html::-webkit-scrollbar-thumb {
 
 :root {
   --main-color: rgb(139, 0, 0);
-  --yellow: #f9ca24;
+  --yellow: rgb(139, 0, 0);
 }
 
 body {
